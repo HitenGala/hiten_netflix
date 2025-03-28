@@ -76,7 +76,7 @@ body {
 }
 
 .main-container {
-    background-image: url(assets/images/nf_bg_img.jpg);
+    background-image: url(nf_bg_img.jpg);
     height: 65vh;
     background-repeat: no-repeat;
     background-position: center;
